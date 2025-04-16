@@ -13,7 +13,7 @@
 Для работы скрипта необходимо установить библиотеку requests. Вы можете сделать это с помощью pip:
 
 ```bash
-pip install requests
+pip install requests --version 2.32.3
 ```
 ## Использование
 
