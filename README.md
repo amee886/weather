@@ -10,10 +10,10 @@
 
 ## Установка
 
-Для работы скрипта необходимо установить библиотеку requests. Вы можете сделать это с помощью pip:
+Для работы скрипта необходимо установить файл requirements.txt. Вы можете сделать это с помощью pip:
 
 ```bash
-pip install requests --version 2.32.3
+python -m pip install -r requirements.txt
 ```
 ## Использование
 
